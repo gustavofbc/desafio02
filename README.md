@@ -44,8 +44,16 @@ No diretório do projeto exdcute o comando abaixo:
 yarn install
 ```
 
-Para executar o projeto execute o comando:
+Para executar o projeto abra a pasta em que este se encontra e abra dois terminais, em seguida em um deles execute o comando:
 ```
+# execução do servidor
+
+yarn serve
+```
+e no outro execute o comando:
+```
+# execução da aplicação web
+
 yarn dev
 ```
     
