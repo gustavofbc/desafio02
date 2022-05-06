@@ -39,7 +39,7 @@ Na pasta de sua escolha clone o projeto via git com o comando abaixo:
 git clone git@github.com:gustavofbc/desafio02.git
 ```
 
-No diretório do projeto exdcute o comando abaixo:
+No diretório do projeto execute o comando abaixo:
 ```
 yarn install
 ```
